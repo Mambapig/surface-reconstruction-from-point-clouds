@@ -1,0 +1,24 @@
+First test
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 4 4 1.317927e-05 5.835597e-06
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 5 5 2.586907e-03 1.365638e-03
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 6 6 2.452638e-03 1.305204e-03
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 7 7 1.362449e-02 6.082382e-03
+
+Second test
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 4 4 6.796711e-05 2.840919e-05
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 5 5 3.164293e-03 1.608737e-03
+
+
+
+
+is = 0;  js = 0;
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 4 4 1.995685e-05 8.557087e-06
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 5 5 4.291879e-03 2.056352e-03
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 6 6 1.282668e-02 5.722339e-03
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 7 7 1.620985e-02 5.418925e-03
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 8 8 1.815758e-02 4.807284e-03
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 9 9 2.272478e-02 6.165186e-03
+ie + 1 - is,je + 1 - js,ErrM,ErrA= 10 10 2.284835e-02 7.559673e-03
+
+
+
